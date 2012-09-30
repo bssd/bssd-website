@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gear 1.2 german translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-28 15:53+0200\n"
+"PO-Revision-Date: 2009-02-11 17:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: Johannes Hildenbrand www.hildenbrand-nbg.de <wordpress@hildenbrand-nbg.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;ngettext\n"
+"X-Poedit-Basepath: \\gear.1.2\\gear\n"
+
+#: \wordpress\wp-content\themes\gear/comments.php:11
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Dieser Artikel ist passwortgeschützt. Geben Sie Ihr Passwort ein um die Kommentare anzuzeigen."
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "No responses to"
+msgstr "Keine Antwort zu"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "One response to"
+msgstr "Eine Antwort zu"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "% responses to"
+msgstr "% Antworten zu"
+
+#: \wordpress\wp-content\themes\gear/comments.php:38
+msgid "Your comment is awaiting moderation"
+msgstr "Ihr Beitrag muss noch von einem Moderator freigeschaltet werden."
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "F jS, Y"
+msgstr "j. F Y"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "H:i"
+msgstr "H:i"
+
+#: \wordpress\wp-content\themes\gear/comments.php:43
+#: \wordpress\wp-content\themes\gear/item.php:26
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: \wordpress\wp-content\themes\gear/comments.php:68
+msgid "Comments are closed"
+msgstr "Kommentare sind deaktiviert"
+
+#: \wordpress\wp-content\themes\gear/comments.php:78
+msgid "Leave a reply"
+msgstr "Einen Kommentar schreiben"
+
+#: \wordpress\wp-content\themes\gear/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Sie müssen <a href=\"%s\">angemeldet</a> sein um einen Kommentar schreiben zu können-"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Logged in as"
+msgstr "Angemeldet als"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out of this account"
+msgstr "Abmelden"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out"
+msgstr "Abmelden"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+msgid "Name"
+msgstr "Name"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "(required)"
+msgstr "(benötigt)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "Mail (will not be published)"
+msgstr "E-Mail (wird nicht veröffentlicht)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:104
+msgid "Website"
+msgstr "Homepage"
+
+#: \wordpress\wp-content\themes\gear/comments.php:112
+msgid "Submit Comment"
+msgstr "Kommentar senden"
+
+#: \wordpress\wp-content\themes\gear/footer.php:3
+msgid "Powered by"
+msgstr "Powered by"
+
+#: \wordpress\wp-content\themes\gear/footer.php:4
+msgid "Designed by"
+msgstr "Designed by"
+
+#: \wordpress\wp-content\themes\gear/functions.php:22
+msgid "Search"
+msgstr "Suche"
+
+#: \wordpress\wp-content\themes\gear/functions.php:147
+msgid "settings"
+msgstr "Einstellungen"
+
+#: \wordpress\wp-content\themes\gear/head.php:16
+msgid "RSS icon"
+msgstr "RSS icon"
+
+#: \wordpress\wp-content\themes\gear/head.php:18
+msgid "Email icon"
+msgstr "Email icon"
+
+#: \wordpress\wp-content\themes\gear/head.php:20
+msgid "Home icon"
+msgstr "Home icon"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "A link to home page"
+msgstr "Link zur Startseite"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "Home"
+msgstr "Startseite"
+
+#: \wordpress\wp-content\themes\gear/header.php:15
+msgid "Category &raquo; "
+msgstr "Kategorie &raquo; "
+
+#: \wordpress\wp-content\themes\gear/header.php:18
+msgid "Tag &raquo; "
+msgstr "Tag &raquo; "
+
+#: \wordpress\wp-content\themes\gear/header.php:21
+msgid "Search results &raquo; "
+msgstr "Suchergebnisse &raquo;"
+
+#: \wordpress\wp-content\themes\gear/index.php:30
+#: \wordpress\wp-content\themes\gear/single.php:31
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ältere Einträge"
+
+#: \wordpress\wp-content\themes\gear/index.php:31
+#: \wordpress\wp-content\themes\gear/single.php:32
+msgid "Newer Entries &raquo;"
+msgstr "Neuere Einträge &raquo;"
+
+#: \wordpress\wp-content\themes\gear/item.php:3
+msgid "Permanent Link to"
+msgstr "Permalink zu"
+
+#: \wordpress\wp-content\themes\gear/item.php:10
+msgid "Posted on"
+msgstr "Geschrieben am"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "No comments"
+msgstr "Keine Kommentare"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "1 comment"
+msgstr "1 Kommentar"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+#, php-format
+msgid "% comments"
+msgstr "% Kommentare"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "comments"
+msgstr "Kommentare"
+
+#: \wordpress\wp-content\themes\gear/item.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Weiterlesen &raquo;"
+
+#: \wordpress\wp-content\themes\gear/missing.php:1
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: \wordpress\wp-content\themes\gear/missing.php:4
+msgid "Sorry, but you are looking for something that is not here"
+msgstr "Diese Seite existiert nicht."
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:8
+msgid "Calendar"
+msgstr "Kalender"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:15
+msgid "Archives"
+msgstr "Archive"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:24
+msgid "Recent Articles"
+msgstr "Letzte Artikel"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:35
+msgid "Links"
+msgstr "Links"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:44
+msgid "Categories"
+msgstr "Kategorien"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:53
+msgid "Meta"
+msgstr "Meta"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:55
+msgid "Entries (RSS)"
+msgstr "Einträge (RSS)"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:56
+msgid "Comments (RSS)"
+msgstr "Kommentare (RSS)"
+

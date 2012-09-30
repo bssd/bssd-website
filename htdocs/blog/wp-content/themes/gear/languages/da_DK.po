@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dyrdilmyri Wordperss Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-28 15:53+0200\n"
+"PO-Revision-Date: 2009-02-03 20:24+0200\n"
+"Last-Translator: \n"
+"Language-Team: Dyrdilmyr Web Team <webmaster@dyrdilmyri.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;ngettext\n"
+"X-Poedit-Basepath: \\wordpress\\wp-content\\themes\\gear\n"
+"X-Poedit-SearchPath-0: \\wordpress\\wp-content\\themes\\gear\n"
+
+#: \wordpress\wp-content\themes\gear/comments.php:11
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Denne tekst er Password beskyttet. Skriv Password hvis du vil se den."
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "No responses to"
+msgstr "Ingen kommentarer til"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "One response to"
+msgstr "En kommentar til"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "% responses to"
+msgstr "% kommentarer til"
+
+#: \wordpress\wp-content\themes\gear/comments.php:38
+msgid "Your comment is awaiting moderation"
+msgstr "Dine kommentarer afventer godkendelse fra redaktøren"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s ved %2$s"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "H:i"
+msgstr "H:i"
+
+#: \wordpress\wp-content\themes\gear/comments.php:43
+#: \wordpress\wp-content\themes\gear/item.php:26
+msgid "Edit"
+msgstr "Rediger"
+
+#: \wordpress\wp-content\themes\gear/comments.php:68
+msgid "Comments are closed"
+msgstr "Kommentering er lukker"
+
+#: \wordpress\wp-content\themes\gear/comments.php:78
+msgid "Leave a reply"
+msgstr "Skriv et svar"
+
+#: \wordpress\wp-content\themes\gear/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du SKAL være  <a href=\"%s\">logget ind</a> for at up-loade en kommentar."
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Logged in as"
+msgstr "Log ind som"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out of this account"
+msgstr "Log ud af denne konto"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out"
+msgstr "Log ud"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+msgid "Name"
+msgstr "Navn"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "(required)"
+msgstr "(krævet)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "Mail (will not be published)"
+msgstr "Mail (vil ikke blive up-loaded)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:104
+msgid "Website"
+msgstr "Hjemmeside"
+
+#: \wordpress\wp-content\themes\gear/comments.php:112
+msgid "Submit Comment"
+msgstr "Send kommentar"
+
+#: \wordpress\wp-content\themes\gear/footer.php:3
+msgid "Powered by"
+msgstr "Afvikles med"
+
+#: \wordpress\wp-content\themes\gear/footer.php:4
+msgid "Designed by"
+msgstr "Designet af"
+
+#: \wordpress\wp-content\themes\gear/functions.php:22
+msgid "Search"
+msgstr "Søg"
+
+#: \wordpress\wp-content\themes\gear/functions.php:147
+msgid "settings"
+msgstr "Indstillinger"
+
+#: \wordpress\wp-content\themes\gear/head.php:16
+msgid "RSS icon"
+msgstr "RSS ikon"
+
+#: \wordpress\wp-content\themes\gear/head.php:18
+msgid "Email icon"
+msgstr "E-mail Ikon"
+
+#: \wordpress\wp-content\themes\gear/head.php:20
+msgid "Home icon"
+msgstr "Hjem ikon"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "A link to home page"
+msgstr "Et link til hjemmeside"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "Home"
+msgstr "Kattegori"
+
+#: \wordpress\wp-content\themes\gear/header.php:15
+msgid "Category &raquo; "
+msgstr "Kattegori &raquo;"
+
+#: \wordpress\wp-content\themes\gear/header.php:18
+msgid "Tag &raquo; "
+msgstr "Markering &raquo; "
+
+#: \wordpress\wp-content\themes\gear/header.php:21
+msgid "Search results &raquo; "
+msgstr "Søgeresultater &raquo; "
+
+#: \wordpress\wp-content\themes\gear/index.php:30
+#: \wordpress\wp-content\themes\gear/single.php:31
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Ældre beskeder"
+
+#: \wordpress\wp-content\themes\gear/index.php:31
+#: \wordpress\wp-content\themes\gear/single.php:32
+msgid "Newer Entries &raquo;"
+msgstr "Nyere beskeder &raquo;"
+
+#: \wordpress\wp-content\themes\gear/item.php:3
+msgid "Permanent Link to"
+msgstr "Permanent link til"
+
+#: \wordpress\wp-content\themes\gear/item.php:10
+msgid "Posted on"
+msgstr "Up-loaded den"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "No comments"
+msgstr "Ingen kommentarer"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "1 comment"
+msgstr "1 kommentar"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+#, php-format
+msgid "%s comments"
+msgstr "%s kommentarer"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "comments"
+msgstr "kommentarer"
+
+#: \wordpress\wp-content\themes\gear/item.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Læs hele denne tekst &raquo;"
+
+#: \wordpress\wp-content\themes\gear/missing.php:1
+msgid "Not Found"
+msgstr "Findes ikke"
+
+#: \wordpress\wp-content\themes\gear/missing.php:4
+msgid "Sorry, but you are looking for something that is not here"
+msgstr "Beklager, men du leder efter noget der ikke findes"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:8
+msgid "Calendar"
+msgstr "Kalender"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:15
+msgid "Archives"
+msgstr "Arkiver"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:24
+msgid "Recent Articles"
+msgstr "Nye indlæg"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:35
+msgid "Links"
+msgstr "Link"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:44
+msgid "Categories"
+msgstr "Kattegorier"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:53
+msgid "Meta"
+msgstr "Meta"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:55
+msgid "Entries (RSS)"
+msgstr "Tekster (RSS)"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:56
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+

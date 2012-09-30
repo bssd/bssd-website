@@ -1,0 +1,109 @@
+version 1.2.7 (released 13/03/2009)
+   * Added Dutch language. Thanks to Willem Mobach.
+   * Modified the banners to support the wider theme version.
+
+
+version 1.2.6 (released 06/03/2009)
+   * Added a new option which allows you to hide a search input in the header.
+   * Added the most requested option which allows you to make the theme wider.
+
+
+version 1.2.5 (released 24/02/2009)
+   * Added Swedish language. Thanks to Per Ornered.
+
+
+version 1.2.4 (released 18/02/2009)
+   * Added Finnish language. Thanks to C.Hellberg.
+   * Fixed banner's background color codes.
+
+
+version 1.2.3 (released 16/02/2009)
+   * Added Turkish language. Thanks to Ersin Han.
+   * Added French language. Thanks to Benjamin Vincent.
+   * Added Romanian language. Thanks to Stan Ionut.
+
+
+version 1.2.2 (released 13/02/2009)
+   * Added Russian language. Thanks to Oleg.
+   * Made search box transparent.
+   * Added a new option which allows you to change header's background.
+   * Added 2 new header backgrounds.
+
+
+version 1.2.1 (released 11/02/2009)
+   * Added German language. Thanks to Johannes Hildenbrand.
+   * Added a new option which lets you change banner's background.
+   * Added a new option which allows you to hide a logo.
+
+
+version 1.2 (released 09/02/2009)
+   * Added Portuguese language. Thanks to João José Moreira Constantino.
+   * Added many banner backgrounds (check the folder images/bg/banner/).
+   * Added a new theme background called Shiny.
+   * Fixed logout bug.
+   * Fixed IE table behavior bug.
+   * Fixed wp-caption bug.
+   * Added a new screenshot.
+
+
+version 1.1.4 (released 04/02/2009)
+    * Added Spanish language. Thanks to Rafael Riquelme.
+    * Fixed links on categories & tags. Thanks to Raymond.
+
+
+version 1.1.3 (released 04/02/2009)
+
+    * Added Danish language. Thanks to Carlos Moller-S.P.
+
+
+version 1.1.2 (released 03/02/2009)
+
+    * Added Italian language. Thanks to Gianni Diurno.
+    * Fixed header issue which appeared when a tagline was blank.
+    * Added README.txt file.
+
+
+version 1.1.1 (released 30/01/2009)
+
+    * Added Lithuanian language.
+
+
+version 1.1 (released 28/01/2009)
+
+    * Made theme ready for localization. Please contact me, if you like to contribute your own language, thanks.
+
+
+version 1.0.8 (released 26/01/2009)
+
+    * Added a link on the comments.
+
+
+version 1.0.7 (released 23/01/2009)
+
+    * Added new theme option which enables you to hide the mail icon with your email.
+    * Changed "pre" tag's behavior. All syntax highlighters should work well (Thanks Wolfgang).
+    * Fixed some image alignment issues.
+    * Updated the screenshot of the theme.
+
+
+version 1.0.5 (released 21/01/2009)
+
+    * Fixed search box bug when it was placed as a widget.
+    * Added 5 more backgrounds (2 with solid colors + 3 with gradients) which are accessible through an options page.
+    * Changed the colors of tr, td tags & .wp-caption class to match the theme.
+
+
+version 1.0.4 (released 20/01/2009)
+
+    * Fixed header bug. When blog title or tagline consisted more than one line of text, the header would broke up. In addition search box had some space from the right corner in IE5.5, IE6.
+
+
+version 1.0.3 (released 19/01/2009)
+
+    * Fixed some bugs which occurred using IE5.5, IE6 (sidebar & footer).
+    * Added changelog file.
+
+
+version 1.0.0 (released 09/01/2009)
+
+    * Initial version.

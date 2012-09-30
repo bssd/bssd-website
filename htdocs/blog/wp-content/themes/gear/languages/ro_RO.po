@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Romanian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-15 14:00+0200\n"
+"PO-Revision-Date: 2009-02-16 14:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: Web Fr33lancer <web-fr33lancer@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;ngettext\n"
+"X-Poedit-Basepath: \\wordpress\\wp-content\\themes\\gear\n"
+"X-Poedit-SearchPath-0: \\wordpress\\wp-content\\themes\\gear\n"
+
+#: \wordpress\wp-content\themes\gear/comments.php:11
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Acest articol este protejat prin parola. Introdu parola pentru a vizualiza comentariile"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "No responses to"
+msgstr "Niciun raspuns catre"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "One response to"
+msgstr "Un raspuns catre"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "% responses to"
+msgstr "% raspunsuri catre"
+
+#: \wordpress\wp-content\themes\gear/comments.php:38
+msgid "Your comment is awaiting moderation"
+msgstr "Comentariul tau asteapta sa fie moderat"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la %2$s"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "F jS, Y"
+msgstr "d m, Y"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "H:i"
+msgstr "H:i"
+
+#: \wordpress\wp-content\themes\gear/comments.php:43
+#: \wordpress\wp-content\themes\gear/item.php:26
+msgid "Edit"
+msgstr "Editeaza"
+
+#: \wordpress\wp-content\themes\gear/comments.php:68
+msgid "Comments are closed"
+msgstr "Comentariile sunt inchise"
+
+#: \wordpress\wp-content\themes\gear/comments.php:78
+msgid "Leave a reply"
+msgstr "Lasa un rapuns"
+
+#: \wordpress\wp-content\themes\gear/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Trebuie sa fi <a href=\"%s\">autentificat</a> pentru a scrie un comentariu"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Logged in as"
+msgstr "Autentificat ca"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out of this account"
+msgstr "Iesi din acest cont"
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out"
+msgstr "Iesire cont"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+msgid "Name"
+msgstr "Nume"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "(required)"
+msgstr "(necesar)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "Mail (will not be published)"
+msgstr "Mail (nu va fi pulicat)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:104
+msgid "Website"
+msgstr "Site personal"
+
+#: \wordpress\wp-content\themes\gear/comments.php:112
+msgid "Submit Comment"
+msgstr "Adauga Comentariu"
+
+#: \wordpress\wp-content\themes\gear/footer.php:3
+msgid "Powered by"
+msgstr "Motorizat de"
+
+#: \wordpress\wp-content\themes\gear/footer.php:4
+msgid "Designed by"
+msgstr "Conceput de"
+
+#: \wordpress\wp-content\themes\gear/functions.php:22
+msgid "Search"
+msgstr "Cautare"
+
+#: \wordpress\wp-content\themes\gear/functions.php:147
+msgid "settings"
+msgstr "setari"
+
+#: \wordpress\wp-content\themes\gear/head.php:16
+msgid "RSS icon"
+msgstr "Icoana RSS"
+
+#: \wordpress\wp-content\themes\gear/head.php:18
+msgid "Email icon"
+msgstr "Icoana Email"
+
+#: \wordpress\wp-content\themes\gear/head.php:20
+msgid "Home icon"
+msgstr "Icoana Index"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "A link to home page"
+msgstr "Linkul catre pagina principala"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "Home"
+msgstr "Acasa"
+
+#: \wordpress\wp-content\themes\gear/header.php:15
+msgid "Category &raquo; "
+msgstr "Categorie &raquo;"
+
+#: \wordpress\wp-content\themes\gear/header.php:18
+msgid "Tag &raquo; "
+msgstr "Eticheta &raquo;"
+
+#: \wordpress\wp-content\themes\gear/header.php:21
+msgid "Search results &raquo; "
+msgstr "RTezultate cautare &raquo;"
+
+#: \wordpress\wp-content\themes\gear/index.php:30
+#: \wordpress\wp-content\themes\gear/single.php:31
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Intrari Vechi"
+
+#: \wordpress\wp-content\themes\gear/index.php:31
+#: \wordpress\wp-content\themes\gear/single.php:32
+msgid "Newer Entries &raquo;"
+msgstr "Intrari Noi &raquo;"
+
+#: \wordpress\wp-content\themes\gear/item.php:3
+msgid "Permanent Link to"
+msgstr "Link permanent catre"
+
+#: \wordpress\wp-content\themes\gear/item.php:10
+msgid "Posted on"
+msgstr "Adaugat pe"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "No comments"
+msgstr "Comenteaza!"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "1 comment"
+msgstr "1 comentariu"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+#, php-format
+msgid "% comments"
+msgstr "% comentarii"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "comments"
+msgstr "comentarii"
+
+#: \wordpress\wp-content\themes\gear/item.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Citeste restul acestei intrari &raquo;"
+
+#: \wordpress\wp-content\themes\gear/missing.php:1
+msgid "Not Found"
+msgstr "Nu s-a gasit"
+
+#: \wordpress\wp-content\themes\gear/missing.php:4
+msgid "Sorry, but you are looking for something that is not here"
+msgstr "Ne pare rau, dar cauti ceva ce nu este aici"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:8
+msgid "Calendar"
+msgstr "Calendar"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:15
+msgid "Archives"
+msgstr "Arhive"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:24
+msgid "Recent Articles"
+msgstr "Articole Recente"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:35
+msgid "Links"
+msgstr "Legaturi"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:44
+msgid "Categories"
+msgstr "Categorii"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:53
+msgid "Meta"
+msgstr "Extra"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:55
+msgid "Entries (RSS)"
+msgstr "Intrari (RSS)"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:56
+msgid "Comments (RSS)"
+msgstr "Comentarii (RSS)"
+

@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Default\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-28 15:53+0200\n"
+"PO-Revision-Date: 2009-02-17 21:43+0200\n"
+"Last-Translator: C.Hellberg <webmaster@blogijuttu.net>\n"
+"Language-Team: MyMobiles Web Team <contact@mymobiles.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;ngettext\n"
+"X-Poedit-Basepath: \\wordpress\\wp-content\\themes\\gear\n"
+"X-Poedit-SearchPath-0: \\wordpress\\wp-content\\themes\\gear\n"
+
+#: \wordpress\wp-content\themes\gear/comments.php:11
+msgid "This post is password protected. Enter the password to view comments"
+msgstr "Tämä artikkeli on suojattu salasanalla. Anna salasana, kommetoidaksesi."
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "No responses to"
+msgstr "Ei kommentteja artikkelissa"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "One response to"
+msgstr "1 kommetti artikkelissa"
+
+#: \wordpress\wp-content\themes\gear/comments.php:25
+msgid "% responses to"
+msgstr "%  kommenttia artikkelissa"
+
+#: \wordpress\wp-content\themes\gear/comments.php:38
+msgid "Your comment is awaiting moderation"
+msgstr "Kommenttisi odottaa ylläpitäjän hyväksyntää."
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "F jS, Y"
+msgstr "F&#110  n. Y,"
+
+#: \wordpress\wp-content\themes\gear/comments.php:42
+msgid "H:i"
+msgstr "H:i"
+
+#: \wordpress\wp-content\themes\gear/comments.php:43
+#: \wordpress\wp-content\themes\gear/item.php:26
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: \wordpress\wp-content\themes\gear/comments.php:68
+msgid "Comments are closed"
+msgstr "Kommentointi on suljettu."
+
+#: \wordpress\wp-content\themes\gear/comments.php:78
+msgid "Leave a reply"
+msgstr "Jätä kommentti"
+
+#: \wordpress\wp-content\themes\gear/comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Sinun täytyy <a href=\"%s\">kirjatua sisään</a> kommetoidaksesi."
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Logged in as"
+msgstr "Olet kirjautunut sisään käyttäjänä "
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out of this account"
+msgstr "Kirjaudu ulos "
+
+#: \wordpress\wp-content\themes\gear/comments.php:92
+msgid "Log out"
+msgstr "Kirjaudu ulos"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+msgid "Name"
+msgstr "Nimi"
+
+#: \wordpress\wp-content\themes\gear/comments.php:98
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "(required)"
+msgstr "(vaaditaan)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:101
+msgid "Mail (will not be published)"
+msgstr "Sähköposti (ei julkaista)"
+
+#: \wordpress\wp-content\themes\gear/comments.php:104
+msgid "Website"
+msgstr "Kotisivu"
+
+#: \wordpress\wp-content\themes\gear/comments.php:112
+msgid "Submit Comment"
+msgstr "Lähetä kommentti"
+
+#: \wordpress\wp-content\themes\gear/footer.php:3
+msgid "Powered by"
+msgstr "Blogialustana toimii"
+
+#: \wordpress\wp-content\themes\gear/footer.php:4
+msgid "Designed by"
+msgstr "Sunnittelllut"
+
+#: \wordpress\wp-content\themes\gear/functions.php:22
+msgid "Search"
+msgstr "Etsi"
+
+#: \wordpress\wp-content\themes\gear/functions.php:147
+msgid "settings"
+msgstr "asetukset"
+
+#: \wordpress\wp-content\themes\gear/head.php:16
+msgid "RSS icon"
+msgstr "RSS ikoni"
+
+#: \wordpress\wp-content\themes\gear/head.php:18
+msgid "Email icon"
+msgstr "Sähköposti ikoni"
+
+#: \wordpress\wp-content\themes\gear/head.php:20
+msgid "Home icon"
+msgstr "Etusivu ikoni"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "A link to home page"
+msgstr "Linkki kotisivulle"
+
+#: \wordpress\wp-content\themes\gear/head.php:32
+msgid "Home"
+msgstr "Etusivu"
+
+#: \wordpress\wp-content\themes\gear/header.php:15
+msgid "Category &raquo; "
+msgstr "Aihe &raquo; "
+
+#: \wordpress\wp-content\themes\gear/header.php:18
+msgid "Tag &raquo; "
+msgstr "Avainsana &raquo; "
+
+#: \wordpress\wp-content\themes\gear/header.php:21
+msgid "Search results &raquo; "
+msgstr "Hakutulokset &raquo; "
+
+#: \wordpress\wp-content\themes\gear/index.php:30
+#: \wordpress\wp-content\themes\gear/single.php:31
+msgid "&laquo; Older Entries"
+msgstr "&raquo;  Edellinen "
+
+#: \wordpress\wp-content\themes\gear/index.php:31
+#: \wordpress\wp-content\themes\gear/single.php:32
+msgid "Newer Entries &raquo;"
+msgstr "Seuraava &raquo; "
+
+#: \wordpress\wp-content\themes\gear/item.php:3
+msgid "Permanent Link to"
+msgstr "Pysyvä linkki"
+
+#: \wordpress\wp-content\themes\gear/item.php:10
+msgid "Posted on"
+msgstr "Lähetetty "
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "No comments"
+msgstr "Ei kommentteja"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "1 comment"
+msgstr "1 kommentti"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+#, php-format
+msgid "% comments"
+msgstr "% kommettia"
+
+#: \wordpress\wp-content\themes\gear/item.php:12
+msgid "comments"
+msgstr "kommentit"
+
+#: \wordpress\wp-content\themes\gear/item.php:16
+msgid "Read the rest of this entry &raquo;"
+msgstr "Lue loppuun %"
+
+#: \wordpress\wp-content\themes\gear/missing.php:1
+msgid "Not Found"
+msgstr "Ei löydy"
+
+#: \wordpress\wp-content\themes\gear/missing.php:4
+msgid "Sorry, but you are looking for something that is not here"
+msgstr "Valitettavasti hakemaasi ei löytynyt"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:8
+msgid "Calendar"
+msgstr "Kalenteri"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:15
+msgid "Archives"
+msgstr "Arkisto"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:24
+msgid "Recent Articles"
+msgstr "Uusimmat artikkelit"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:35
+msgid "Links"
+msgstr "Linkit"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:44
+msgid "Categories"
+msgstr "Kategoriat"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:53
+msgid "Meta"
+msgstr "Meta"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:55
+msgid "Entries (RSS)"
+msgstr "Artikkelit (RSS)"
+
+#: \wordpress\wp-content\themes\gear/sidebar.php:56
+msgid "Comments (RSS)"
+msgstr "Kommentit (RRS)"
+
